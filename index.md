@@ -1,6 +1,6 @@
 ## Team Members
 
-![Image of Dennis](https://github.com/sdcorecode/sdcorecode.github.io/blob/master/Dennis.png)
+![Dennis](Dennis.png)
 Dennis Afanasev: Computer Science senior at GWU. Interested in operating systems and high performance network function virtualization for middleboxes. 
 
 ## CoreCode Demo
