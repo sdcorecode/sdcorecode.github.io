@@ -1,8 +1,9 @@
 ## Team Members
 
-<img src="Dennis.png" alt="Dennis Afanasev" width="200" height="200">
+<img src="Dennis.png" alt="Dennis Afanasev" width="200" height="200"> <br />
 **Dennis Afanasev** <br />
-Computer Science senior at GWU. Interested in operating systems and high performance network function virtualization for middleboxes. 
+Computer Science senior at GWU. Interested in operating systems <br />
+and high performance network function virtualization for middleboxes. 
 
 ## CoreCode Demo
 
