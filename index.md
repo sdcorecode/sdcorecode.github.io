@@ -6,7 +6,7 @@ Computer Science senior at GWU. Interested in operating systems and high perform
 
 ## CoreCode Demo
 
-[![CoreCode Demo](http://img.youtube.com/vi/UK6R7HCaDLQ/0.jpg)](https://www.youtube.com/watch?v=UK6R7HCaDLQ "CoreCode Demo")
+[![CoreCode Demo](http://img.youtube.com/vi/2hGLfex5SHc/0.jpg)](https://www.youtube.com/watch?v=2hGLfex5SHc "CoreCode Demo")
 
 ### Relevant Links
 [Writings](https://drive.google.com/drive/folders/1bSd410L2srpsd_iG8QGGfFWacLTSZKDj?usp=sharing "Writings") <br />
